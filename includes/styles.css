@@ -6,6 +6,7 @@ body{
 div.section{
 	border-bottom:1px solid #ccc;
 	padding-bottom: 10px;
+	overflow: hidden;
 }
 
 img.product_img{
@@ -19,6 +20,22 @@ div.item{
 	margin-bottom: 10px;
 }
 
+div.item.last{
+	border: none;
+}
+
 .bold{
 	font-weight: bold;
+}
+
+.column{
+	width:100%;
+	clear:both;
+}
+
+div.left{
+	width:30%;
+	margin:10px 10px;
+	float:left;
+	text-align: center;
 }
