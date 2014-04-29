@@ -11,3 +11,14 @@ div.section{
 img.product_img{
 	margin-left:10px
 }
+
+div.item{
+	overflow:hidden;
+	padding-bottom:10px;
+	border-bottom: 1px dashed #ccc;
+	margin-bottom: 10px;
+}
+
+.bold{
+	font-weight: bold;
+}
