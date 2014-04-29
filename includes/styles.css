@@ -2,3 +2,12 @@ body{
 	width: 800px;
 	margin:20px auto;
 }
+
+div.section{
+	border-bottom:1px solid #ccc;
+	padding-bottom: 10px;
+}
+
+img.product_img{
+	margin-left:10px
+}
