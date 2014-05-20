@@ -3,6 +3,10 @@ body{
 	margin:20px auto;
 }
 
+ul li{
+	padding-bottom: 1em;
+}
+
 div.section{
 	border-bottom:1px solid #ccc;
 	padding-bottom: 10px;
